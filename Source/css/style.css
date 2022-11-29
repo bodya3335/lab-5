@@ -2,6 +2,11 @@
 position: absolute;
 left: 0px;
 opacity: 0;
+}
+#heading1, #heading2, #heading3, #heading4{
+position: absolute;
+left: 0px;
+opacity: 0;
 font-size: 92px;
 letter-spacing: .15em;
 text-shadow:
